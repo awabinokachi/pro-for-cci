@@ -1,5 +1,4 @@
-print "hello cci"
-
+print "jack"
 print "mike"
 
 print "marhon"
